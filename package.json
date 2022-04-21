@@ -1,14 +1,14 @@
 {
-  "name": "",
+  "name": "To-do-API-REST",
   "version": "1.0.0",
-  "description": "",
+  "description": "API REST de lista de tarefas, feita com typescript.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start-dev": "nodemon -e ts,json src/server.ts"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^10.0.0",
